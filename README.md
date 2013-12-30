@@ -7,3 +7,5 @@ Triptyk Base Project for
 and finally Yeoman intégration
 
 Made & adapted by Gilles BERTRAND for Triptyk dev's use
+
+Max
