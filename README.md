@@ -10,3 +10,4 @@ Made & adapted by Gilles BERTRAND for Triptyk dev's use
 
 Max
 Chris
+Maxime
