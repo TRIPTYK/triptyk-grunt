@@ -9,5 +9,5 @@ and finally Yeoman intégration
 Made & adapted by Gilles BERTRAND for Triptyk dev's use
 
 Max
-Chris
+Chris (test le i pur mieux comprendre)
 Maxime
