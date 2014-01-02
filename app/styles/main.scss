@@ -1,9 +1,15 @@
-@import "compass/typography/links/hover-link";
+@import "spritesheet";
 
 body {
     background: #fafafa;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
+}
+
+.buttons{
+    display: block;
+    width:40px;
+    height:40px;
 }
 
 a {
